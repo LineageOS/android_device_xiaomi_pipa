@@ -16,6 +16,24 @@
       "message": "Would honestly prefer implementing this in a Lineage touch AIDL",
       "revId": "9f1bd32a2f16ab6c96b39730e1f906f9825b6e49",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c0ace90_f5379fd1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18106
+      },
+      "writtenOn": "2023-12-07T15:43:03Z",
+      "side": 1,
+      "message": "I disagree, since most of this is very device specific and could be used on maybe 2 devices at most (of which, none is currently in lineage or planned to be anytime soon). Specifically the bluetooth pen authentication part and the switch to force recognize the pen even without bluetooth.",
+      "parentUuid": "f1e8cbae_b668bf09",
+      "revId": "9f1bd32a2f16ab6c96b39730e1f906f9825b6e49",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
