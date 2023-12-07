@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "44c1e671_abc0390a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-12-07T12:25:10Z",
+      "side": 1,
+      "message": "Same comment as previous patch",
+      "revId": "5da5165472480e9141b6659a2ee099ec8a4574e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b2809701_f6155b82",
+        "filename": "peripheralmanager/src/org/lineageos/xiaomiperipheralmanager/PenUtils.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-12-07T12:25:10Z",
+      "side": 1,
+      "message": "100 chars",
+      "range": {
+        "startLine": 33,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 106
+      },
+      "revId": "5da5165472480e9141b6659a2ee099ec8a4574e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ce2948ff_38983807",
+        "filename": "peripheralmanager/src/org/lineageos/xiaomiperipheralmanager/StylusSettingsFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-12-07T12:25:10Z",
+      "side": 1,
+      "message": "100 chars",
+      "range": {
+        "startLine": 48,
+        "startChar": 0,
+        "endLine": 48,
+        "endChar": 112
+      },
+      "revId": "5da5165472480e9141b6659a2ee099ec8a4574e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "952ad7ee_01174fb8",
+        "filename": "peripheralmanager/src/org/lineageos/xiaomiperipheralmanager/StylusSettingsFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-12-07T12:25:10Z",
+      "side": 1,
+      "message": "100 chars",
+      "range": {
+        "startLine": 65,
+        "startChar": 0,
+        "endLine": 65,
+        "endChar": 112
+      },
+      "revId": "5da5165472480e9141b6659a2ee099ec8a4574e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
