@@ -22,6 +22,30 @@
       },
       "revId": "e8107f4a5cadfc91c92a2e0afd4c47cf36428da0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fc83a051_0ef77902",
+        "filename": "overlay/packages/apps/Settings/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 18106
+      },
+      "writtenOn": "2023-12-07T10:34:37Z",
+      "side": 1,
+      "message": "should be fine now",
+      "parentUuid": "b6f5a429_0182906e",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 35
+      },
+      "revId": "e8107f4a5cadfc91c92a2e0afd4c47cf36428da0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
