@@ -22,6 +22,30 @@
       },
       "revId": "75e5f11d43dd4ac2feabae89a73a9b72528a7bc2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "68b965f1_892e07b5",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 29415
+      },
+      "writtenOn": "2023-12-07T17:36:40Z",
+      "side": 1,
+      "message": "You can call PRODUCT_* variables in BoardConfig too, it\u0027s the other way around that doesn\u0027t work (trying to call TARGET_* in a BoardConfig from a device makefile) due to inclusion order.",
+      "parentUuid": "9ee7c2f9_8393b7ee",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 17
+      },
+      "revId": "75e5f11d43dd4ac2feabae89a73a9b72528a7bc2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
