@@ -34,6 +34,24 @@
       "parentUuid": "63c103a6_ab340f99",
       "revId": "f31f3184441561db7f0ccb3c55dd62d0b0dc491b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "daeb84c4_e22a0175",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2023-12-07T12:03:24Z",
+      "side": 1,
+      "message": "In my honest opinion, we either enable this on all tablets or none. We are trying to have somewhat unified UX here.",
+      "parentUuid": "2e143893_407e3dee",
+      "revId": "f31f3184441561db7f0ccb3c55dd62d0b0dc491b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
