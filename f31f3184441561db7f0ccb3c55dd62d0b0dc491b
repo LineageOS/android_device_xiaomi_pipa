@@ -16,6 +16,24 @@
       "message": "This is not good for a tablet.",
       "revId": "f31f3184441561db7f0ccb3c55dd62d0b0dc491b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2e143893_407e3dee",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18106
+      },
+      "writtenOn": "2023-12-07T11:10:59Z",
+      "side": 1,
+      "message": "To be honest I don\u0027t agree on this one. It can still be useful in portrait mode, and it\u0027s not something that gets enabled by default. In my opinion better to have it than not.",
+      "parentUuid": "63c103a6_ab340f99",
+      "revId": "f31f3184441561db7f0ccb3c55dd62d0b0dc491b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
