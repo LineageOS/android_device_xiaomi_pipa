@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e58023e0_afc1f502",
+        "filename": "peripheralmanager/src/org/lineageos/xiaomiperipheralmanager/BootCompletedReceiver.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-12-07T12:21:28Z",
+      "side": 1,
+      "message": "false?",
+      "range": {
+        "startLine": 17,
+        "startChar": 41,
+        "endLine": 17,
+        "endChar": 45
+      },
+      "revId": "3454130768b4b20ec4c778cfb3caf454de25fb5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fd260e3d_3471f13f",
+        "filename": "peripheralmanager/src/org/lineageos/xiaomiperipheralmanager/KeyboardUtils.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-12-07T12:21:28Z",
+      "side": 1,
+      "message": "false?",
+      "range": {
+        "startLine": 17,
+        "startChar": 41,
+        "endLine": 17,
+        "endChar": 45
+      },
+      "revId": "3454130768b4b20ec4c778cfb3caf454de25fb5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d5033ae5_d6029f48",
+        "filename": "peripheralmanager/src/org/lineageos/xiaomiperipheralmanager/KeyboardUtils.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-12-07T12:21:28Z",
+      "side": 1,
+      "message": "ditto",
+      "range": {
+        "startLine": 46,
+        "startChar": 82,
+        "endLine": 46,
+        "endChar": 85
+      },
+      "revId": "3454130768b4b20ec4c778cfb3caf454de25fb5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2c6507fe_ca971bda",
+        "filename": "peripheralmanager/src/org/lineageos/xiaomiperipheralmanager/KeyboardUtils.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-12-07T12:21:28Z",
+      "side": 1,
+      "message": "Move to static constants",
+      "range": {
+        "startLine": 46,
+        "startChar": 44,
+        "endLine": 46,
+        "endChar": 48
+      },
+      "revId": "3454130768b4b20ec4c778cfb3caf454de25fb5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
