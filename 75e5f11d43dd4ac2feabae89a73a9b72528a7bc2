@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9ee7c2f9_8393b7ee",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-12-07T12:19:07Z",
+      "side": 1,
+      "message": "Would suggest using TARGET_*, so it gets picked up also with BoardConfig.mk",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 17
+      },
+      "revId": "75e5f11d43dd4ac2feabae89a73a9b72528a7bc2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
