@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "825d63f5_a707909a",
+        "filename": "peripheralmanager/xiaomi-keyboard.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2023-12-07T11:07:55Z",
+      "side": 0,
+      "message": "Run clang-format.",
+      "revId": "9825ad0c99b34ebfc2fb663adb93ba117ac0be29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
