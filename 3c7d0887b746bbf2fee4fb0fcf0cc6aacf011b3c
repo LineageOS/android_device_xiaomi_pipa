@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2dc0331a_3f4fd7fa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-12-07T12:26:11Z",
+      "side": 1,
+      "message": "Same comment as previous patches",
+      "revId": "3c7d0887b746bbf2fee4fb0fcf0cc6aacf011b3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
