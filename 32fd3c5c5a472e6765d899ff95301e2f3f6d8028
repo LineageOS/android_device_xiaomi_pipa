@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ed949bbe_007f8e3d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30766
+      },
+      "writtenOn": "2024-07-22T05:29:41Z",
+      "side": 1,
+      "message": "this was not about color shift whole screen content will flicker and causing the content to go blank try with netflix (iirc thats where i noticed it, i dont remember)",
+      "revId": "32fd3c5c5a472e6765d899ff95301e2f3f6d8028",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
