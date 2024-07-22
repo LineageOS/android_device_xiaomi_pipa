@@ -33,6 +33,23 @@
       "message": "nvm i see the other change now",
       "revId": "69d890d1a475a5f4a6337a473de010fa67722088",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f93c43f3_96d1829b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24387
+      },
+      "writtenOn": "2024-07-22T06:41:01Z",
+      "side": 1,
+      "message": "I believe ok top of the chain there is a commit which fixes this behaviour having smooth display enabled. I do not have the pen, but I tested it by enabling smooth display. screen is a 144hz. then I go and tap \"force stylus recognition\", and max refresh rate drops to 120hz.\n\nif you have the pen can you test it? thanks!",
+      "revId": "69d890d1a475a5f4a6337a473de010fa67722088",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
