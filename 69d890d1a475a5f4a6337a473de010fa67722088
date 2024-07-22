@@ -16,6 +16,23 @@
       "message": "you might wanna use peak_refresh_rate_switch because it allows to force 60hz or 120hz which are the only modes where Xiaomi pen works",
       "revId": "69d890d1a475a5f4a6337a473de010fa67722088",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9793279a_24c3c8c3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30766
+      },
+      "writtenOn": "2024-07-22T05:32:14Z",
+      "side": 1,
+      "message": "nvm i see the other change now",
+      "revId": "69d890d1a475a5f4a6337a473de010fa67722088",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
