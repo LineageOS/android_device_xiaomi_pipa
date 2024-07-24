@@ -16,6 +16,24 @@
       "message": "Want to setup libinit just to set market name? with you latest changes it defaults to model which ends up being 23043RP34G",
       "revId": "1898c857ccfebf13440de6b2a0676111e71ea2eb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d7fbd6fe_c38b1353",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30766
+      },
+      "writtenOn": "2024-07-24T14:26:24Z",
+      "side": 1,
+      "message": "or we can just set the market name prop directly",
+      "parentUuid": "97f172e2_90cee26f",
+      "revId": "1898c857ccfebf13440de6b2a0676111e71ea2eb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
