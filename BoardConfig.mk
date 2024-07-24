@@ -26,5 +26,8 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 # Sepolicy
 BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 
+# Wi-Fi
+$(call soong_config_set,XIAOMI_KONA_WLAN,SYMLINK_VERSION,v2)
+
 # Inherit from the proprietary version
 include vendor/xiaomi/pipa/BoardConfigVendor.mk
