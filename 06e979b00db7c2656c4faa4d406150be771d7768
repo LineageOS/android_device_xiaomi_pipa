@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "512d7513_9ebc1a6b",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-07-26T17:00:46Z",
+      "side": 1,
+      "message": "This should be removed since it\u0027s queried automatically from hwcomposer",
+      "range": {
+        "startLine": 62,
+        "startChar": 4,
+        "endLine": 62,
+        "endChar": 63
+      },
+      "revId": "06e979b00db7c2656c4faa4d406150be771d7768",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
