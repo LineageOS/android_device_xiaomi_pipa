@@ -16,6 +16,24 @@
       "message": "You are going to squash this, right?",
       "revId": "ed80f2f01088f80acd71fd7f90cfa676c29816a2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9bb21880_a3acb86f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24387
+      },
+      "writtenOn": "2024-10-05T15:08:35Z",
+      "side": 1,
+      "message": "yes",
+      "parentUuid": "9ec8aebd_68335e07",
+      "revId": "ed80f2f01088f80acd71fd7f90cfa676c29816a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
