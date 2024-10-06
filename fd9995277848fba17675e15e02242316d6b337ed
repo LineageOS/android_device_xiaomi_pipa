@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea3f0a59_8250e389",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 18
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24387
+      },
+      "writtenOn": "2024-10-06T10:24:31Z",
+      "side": 1,
+      "message": "Causes the following logspam:\n\nSensorService: sensor 0000002b already enabled in connection 0xb400006fd4062750",
+      "revId": "fd9995277848fba17675e15e02242316d6b337ed",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
