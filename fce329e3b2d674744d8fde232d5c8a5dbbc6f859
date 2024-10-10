@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e138f082_10ff9ac4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-10-10T18:24:53Z",
+      "side": 1,
+      "message": "Wrong reordering, use `sort-blobs-list.py --dir-first`",
+      "revId": "fce329e3b2d674744d8fde232d5c8a5dbbc6f859",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
