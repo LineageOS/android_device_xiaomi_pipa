@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8e02471d_b1fdeafc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 20520
+      },
+      "writtenOn": "2025-01-26T05:21:42Z",
+      "side": 1,
+      "message": "make sure to revert this also\nhttps://github.com/pipa-random/android_kernel_xiaomi_sm8250/commit/80a5105a4096f8423f3891543fecc8f2ea6196f7",
+      "revId": "808b15b8e4ddc3c2f6963dda912419da32bc0493",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
