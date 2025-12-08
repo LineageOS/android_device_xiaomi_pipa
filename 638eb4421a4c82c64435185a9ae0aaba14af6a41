@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "64b0e3cb_333c7b76",
+        "filename": "rro_overlays/LineageSettingsOverlayDevice/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 24387
+      },
+      "writtenOn": "2025-12-08T08:57:32Z",
+      "side": 1,
+      "message": "Remove this as it is enabled in common tree",
+      "revId": "638eb4421a4c82c64435185a9ae0aaba14af6a41",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
