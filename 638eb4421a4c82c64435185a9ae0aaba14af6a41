@@ -16,6 +16,24 @@
       "message": "Remove this as it is enabled in common tree",
       "revId": "638eb4421a4c82c64435185a9ae0aaba14af6a41",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6319194d_f4e458ac",
+        "filename": "rro_overlays/LineageSettingsOverlayDevice/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-03-01T15:10:35Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "64b0e3cb_333c7b76",
+      "revId": "638eb4421a4c82c64435185a9ae0aaba14af6a41",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
